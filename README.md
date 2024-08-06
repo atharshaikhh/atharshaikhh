@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Mohammad Athar 
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning .Net Technology
-- 💞️ I’m looking to collaborate on ASP.NET and SQL
-- 📫 atharshaikh283@gmail.com
+
